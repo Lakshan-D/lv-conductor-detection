@@ -1,0 +1,13 @@
+venv/
+Power-Line-3/
+runs/
+yolov8n.pt
+__pycache__/
+*.pt
+*.pycvenv/
+Power-Line-3/
+runs/
+yolov8n.pt
+__pycache__/
+*.pt
+*.pyc
